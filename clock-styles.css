@@ -242,7 +242,6 @@ footer {
     margin-top: 2rem;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .navbar {
         flex-direction: column;
